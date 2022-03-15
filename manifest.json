@@ -1,0 +1,585 @@
+{
+  "author": "Carlo Goldoni",
+  "contenttype": "drama",
+  "identifier": "goldoni-sluha-dvou-panu-5bfcba8",
+  "languagecode": "cs",
+  "modified": "2022-03-15T14:56:13.234Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Sluha dvou pánů",
+  "revision": "5bfcba8",
+  "generatedAt": {
+    "date": "Tue Mar 15 2022 15:11:06 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1647357066623
+  },
+  "documents": [
+    {
+      "title": "Sluha dvou pánů",
+      "file": "sluha_dvou_panu_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "sluha_dvou_panu_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "OSOBY • Sluha dvou pánů",
+      "file": "sluha_dvou_panu_005.html",
+      "words": 47,
+      "chars": 362,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 1,
+      "prev": "sluha_dvou_panu_002.html",
+      "next": "sluha_dvou_panu_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "OSOBY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DĚJSTVÍ PRVNÍ • Sluha dvou pánů",
+      "file": "sluha_dvou_panu_006.html",
+      "words": 8141,
+      "chars": 47469,
+      "ideas": 584,
+      "role": "chapter",
+      "order": 2,
+      "prev": "sluha_dvou_panu_005.html",
+      "next": "sluha_dvou_panu_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DĚJSTVÍ PRVNÍ",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Scéna 1",
+              "id": "scéna-1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Scéna 2",
+              "id": "scéna-2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Scéna 3",
+              "id": "scéna-3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Scéna 4",
+              "id": "scéna-4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Scéna 5",
+              "id": "scéna-5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "Scéna 6",
+              "id": "scéna-6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "Scéna 7",
+              "id": "scéna-7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "Scéna 8",
+              "id": "scéna-8",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "Scéna 9",
+              "id": "scéna-9",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "Scéna 10",
+              "id": "scéna-10",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "Scéna 11",
+              "id": "scéna-11",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "Scéna 12",
+              "id": "scéna-12",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "Scéna 13",
+              "id": "scéna-13",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "Scéna 14",
+              "id": "scéna-14",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "Scéna 15",
+              "id": "scéna-15",
+              "children": []
+            },
+            {
+              "index": 16,
+              "level": 2,
+              "name": "Scéna 16",
+              "id": "scéna-16",
+              "children": []
+            },
+            {
+              "index": 17,
+              "level": 2,
+              "name": "Scéna 17",
+              "id": "scéna-17",
+              "children": []
+            },
+            {
+              "index": 18,
+              "level": 2,
+              "name": "Scéna 18",
+              "id": "scéna-18",
+              "children": []
+            },
+            {
+              "index": 19,
+              "level": 2,
+              "name": "Scéna 19",
+              "id": "scéna-19",
+              "children": []
+            },
+            {
+              "index": 20,
+              "level": 2,
+              "name": "Scéna 20",
+              "id": "scéna-20",
+              "children": []
+            },
+            {
+              "index": 21,
+              "level": 2,
+              "name": "Scéna 21",
+              "id": "scéna-21",
+              "children": []
+            },
+            {
+              "index": 22,
+              "level": 2,
+              "name": "Scéna 22",
+              "id": "scéna-22",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "DĚJSTVÍ DRUHÉ • Sluha dvou pánů",
+      "file": "sluha_dvou_panu_007.html",
+      "words": 6529,
+      "chars": 38415,
+      "ideas": 515,
+      "role": "chapter",
+      "order": 3,
+      "prev": "sluha_dvou_panu_006.html",
+      "next": "sluha_dvou_panu_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DĚJSTVÍ DRUHÉ",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Scéna 1",
+              "id": "scéna-1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Scéna 2",
+              "id": "scéna-2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Scéna 3",
+              "id": "scéna-3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Scéna 4",
+              "id": "scéna-4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Scéna 5",
+              "id": "scéna-5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "Scéna 6",
+              "id": "scéna-6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "Scéna 7",
+              "id": "scéna-7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "Scéna 8",
+              "id": "scéna-8",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "Scéna 9",
+              "id": "scéna-9",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "Scéna 10",
+              "id": "scéna-10",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "Scéna 11",
+              "id": "scéna-11",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "Scéna 12",
+              "id": "scéna-12",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "Scéna 13",
+              "id": "scéna-13",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "Scéna 14",
+              "id": "scéna-14",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "Scéna 15",
+              "id": "scéna-15",
+              "children": []
+            },
+            {
+              "index": 16,
+              "level": 2,
+              "name": "Scéna 16",
+              "id": "scéna-16",
+              "children": []
+            },
+            {
+              "index": 17,
+              "level": 2,
+              "name": "Scéna 17",
+              "id": "scéna-17",
+              "children": []
+            },
+            {
+              "index": 18,
+              "level": 2,
+              "name": "Scéna 18",
+              "id": "scéna-18",
+              "children": []
+            },
+            {
+              "index": 19,
+              "level": 2,
+              "name": "Scéna 19",
+              "id": "scéna-19",
+              "children": []
+            },
+            {
+              "index": 20,
+              "level": 2,
+              "name": "Scéna 20",
+              "id": "scéna-20",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "DĚJSTVÍ TŘETÍ • Sluha dvou pánů",
+      "file": "sluha_dvou_panu_008.html",
+      "words": 6384,
+      "chars": 37890,
+      "ideas": 502,
+      "role": "chapter",
+      "order": 4,
+      "prev": "sluha_dvou_panu_007.html",
+      "next": "sluha_dvou_panu_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DĚJSTVÍ TŘETÍ",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Scéna 1",
+              "id": "scéna-1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Scéna 2",
+              "id": "scéna-2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Scéna 3",
+              "id": "scéna-3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Scéna 4",
+              "id": "scéna-4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Scéna 5",
+              "id": "scéna-5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "Scéna 6",
+              "id": "scéna-6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "Scéna 7",
+              "id": "scéna-7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "Scéna 8",
+              "id": "scéna-8",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "Scéna 9",
+              "id": "scéna-9",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "Scéna 10",
+              "id": "scéna-10",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "Scéna 11",
+              "id": "scéna-11",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "Scéna 12",
+              "id": "scéna-12",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "Scéna 13",
+              "id": "scéna-13",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "Scéna 14",
+              "id": "scéna-14",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "Scéna 15",
+              "id": "scéna-15",
+              "children": []
+            },
+            {
+              "index": 16,
+              "level": 2,
+              "name": "Scéna 16",
+              "id": "scéna-16",
+              "children": []
+            },
+            {
+              "index": 17,
+              "level": 2,
+              "name": "Scéna poslední",
+              "id": "scéna-poslední",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Doslov překladatele • Sluha dvou pánů",
+      "file": "sluha_dvou_panu_009.html",
+      "words": 4369,
+      "chars": 28977,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 5,
+      "prev": "sluha_dvou_panu_008.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Doslov překladatele",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Sluha dvou pánů",
+      "file": "colophon.html",
+      "words": 160,
+      "chars": 1046,
+      "ideas": 26,
+      "role": "colophon",
+      "order": null,
+      "prev": "sluha_dvou_panu_009.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 25636,
+      "chars": 154190,
+      "ideas": 1679
+    },
+    "chapters": {
+      "words": 25470,
+      "chars": 153113,
+      "ideas": 1650
+    }
+  }
+}

@@ -1,11 +1,171 @@
 {
+  "params": {
+    "metadata": {
+      "languageCode": "cs",
+      "contentType": "drama",
+      "title": "Sluha dvou pánů",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Carlo Goldoni",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-03-15T14:56:13.234Z",
+      "publisherShort": "mkp"
+    },
+    "elements": {
+      "title": "MLP_uroven2_kapitola",
+      "subtitle": "",
+      "h2": "MLP_UROVEN3_NADPIS_DRAMA MLP_uroven3_nadpis ",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku MLP_text_bez1radku_-0-12- MLP_text_bez1radku_-12-0- ",
+      "brAfter": "",
+      "blockquote": "",
+      "figure": "MLP_obrazky ",
+      "em": "MLP_dopis_podpis MLP_scenicke_poznamky MLP_znak_kurziva_11b MLP_znak_kurziva_9b MLP_text_uprostred_-I- MLP_titulka_prekladatel ",
+      "strong": "MLP_znak_tucne_11b MLP_tiraz_autor_a_nazev MLP_tiraz_podnazev ",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "sluha_dvou_panu_001.md",
+            "xhtml": "sluha_dvou_panu_001.xhtml",
+            "id": 0,
+            "role": "cover",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "sluha_dvou_panu_002.md",
+            "xhtml": "sluha_dvou_panu_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "sluha_dvou_panu_003.md",
+            "xhtml": "sluha_dvou_panu_003.xhtml",
+            "id": 2,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "sluha_dvou_panu_004.md",
+            "xhtml": "sluha_dvou_panu_004.xhtml",
+            "id": 3,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "sluha_dvou_panu_005.md",
+            "xhtml": "sluha_dvou_panu_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "sluha_dvou_panu_006.md",
+            "xhtml": "sluha_dvou_panu_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "sluha_dvou_panu_007.md",
+            "xhtml": "sluha_dvou_panu_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "sluha_dvou_panu_008.md",
+            "xhtml": "sluha_dvou_panu_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "sluha_dvou_panu_009.md",
+            "xhtml": "sluha_dvou_panu_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "sluha_dvou_panu_010.md",
+            "xhtml": "sluha_dvou_panu_010.xhtml",
+            "id": 9,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "replacements": []
+  },
   "epub": {
     "metadata": {
       "title": "Sluha dvou pánů",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Carlo Goldoni",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-15T14:56:13.234Z"
+      "modified": "2022-03-15T15:10:10.478Z"
     },
     "chapters": [
       {
@@ -33,31 +193,31 @@
         "xhtml": "sluha_dvou_panu_004.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "OSOBY",
         "subtitleSuggest": "",
         "filename": "sluha_dvou_panu_005.md",
         "xhtml": "sluha_dvou_panu_005.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "DĚJSTVÍ PRVNÍ",
         "subtitleSuggest": "",
         "filename": "sluha_dvou_panu_006.md",
         "xhtml": "sluha_dvou_panu_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "DĚJSTVÍ DRUHÉ",
         "subtitleSuggest": "",
         "filename": "sluha_dvou_panu_007.md",
         "xhtml": "sluha_dvou_panu_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "DĚJSTVÍ TŘETÍ",
         "subtitleSuggest": "",
         "filename": "sluha_dvou_panu_008.md",
         "xhtml": "sluha_dvou_panu_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Doslov překladatele",
         "subtitleSuggest": "",
         "filename": "sluha_dvou_panu_009.md",
         "xhtml": "sluha_dvou_panu_009.xhtml"
@@ -152,6 +312,6 @@
       "user": "books-are-next",
       "repo": "goldoni-sluha-dvou-panu"
     },
-    "generatedAt": 1647356173786
+    "generatedAt": 1647357011250
   }
 }
