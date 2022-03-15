@@ -2,3 +2,83 @@
 title: Tiráž
 ---
 
+***
+
+Sluha dvou pánů
+
+Komedie o třech dějstvích
+
+Carlo Goldoni
+
+_Přeložil Jaroslav Pokorný_
+
+
+***
+
+Znění tohoto textu vychází z díla [Sluha dvou pánů](https://search.mlp.cz/cz/titul/sluha-dvou-panu/176203/#book-content) tak, jak bylo vydáno nakladatelstvím Umění lidu v Praze v roce 1950. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
+
+§
+
+Text díla (Carlo Goldoni: Sluha dvou pánů), publikovaného [Městskou knihovnou v Praze](https://www.mlp.cz/cz/), je vázán autorskými právy a jeho použití je definováno [Autorským zákonem](https://www.mkcr.cz/predpisy-zakonu-709.html) č. 121/2000 Sb.
+
+![](../Images/image001.jpg)
+
+Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci [Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko](https://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
+
+  
+
+Verze 2.0 z 16. 4. 2021.
+
+![](../Images/image004.jpg)
+
+
+***
+
+**Carlo Goldoni  
+Sluha dvou pánů**
+
+**Komedie o třech dějstvích**
+
+  
+
+Edice Drama
+
+  
+
+Překlad Jaroslav Pokorný
+
+  
+
+Ilustrace na obálce John Schwegel/Shutterstock.com
+
+  
+
+Redakce Markéta Teuchnerová
+
+  
+
+Vydala Městská knihovna v Praze
+
+  
+
+Mariánské nám. 1, 115 72 Praha 1
+
+  
+
+V MKP 1. elektronické vydání
+
+  
+
+Verze 2.0 z 16. 4. 2021
+
+  
+
+ISBN 978-80-274-1446-8 (epub)
+
+  
+
+ISBN 978-80-274-1447-5 (pdf)
+
+  
+
+ISBN 978-80-274-1448-2 (prc)
