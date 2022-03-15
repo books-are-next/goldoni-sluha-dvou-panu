@@ -1,0 +1,348 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Sluha dvou pánů",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Carlo Goldoni",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2022-03-15T14:56:13.234Z",
+    "description": "Městská knihovna v Praze",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.1",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sluha_dvou_panu_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sluha_dvou_panu_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sluha_dvou_panu_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sluha_dvou_panu_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sluha_dvou_panu_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sluha_dvou_panu_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sluha_dvou_panu_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sluha_dvou_panu_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sluha_dvou_panu_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sluha_dvou_panu_010.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image004.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_sluha_dvou_panu.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "OSOBY",
+      "href": "OEBPS/Text/sluha_dvou_panu_005.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "DĚJSTVÍ PRVNÍ",
+      "children": [
+        {
+          "title": "Scéna 1",
+          "href": "OEBPS/Text/sluha_dvou_panu_006.xhtml#_idParaDest-3"
+        },
+        {
+          "title": "Scéna 2",
+          "href": "OEBPS/Text/sluha_dvou_panu_006.xhtml#_idParaDest-4"
+        },
+        {
+          "title": "Scéna 3",
+          "href": "OEBPS/Text/sluha_dvou_panu_006.xhtml#_idParaDest-5"
+        },
+        {
+          "title": "Scéna 4",
+          "href": "OEBPS/Text/sluha_dvou_panu_006.xhtml#_idParaDest-6"
+        },
+        {
+          "title": "Scéna 5",
+          "href": "OEBPS/Text/sluha_dvou_panu_006.xhtml#_idParaDest-7"
+        },
+        {
+          "title": "Scéna 6",
+          "href": "OEBPS/Text/sluha_dvou_panu_006.xhtml#_idParaDest-8"
+        },
+        {
+          "title": "Scéna 7",
+          "href": "OEBPS/Text/sluha_dvou_panu_006.xhtml#_idParaDest-9"
+        },
+        {
+          "title": "Scéna 8",
+          "href": "OEBPS/Text/sluha_dvou_panu_006.xhtml#_idParaDest-10"
+        },
+        {
+          "title": "Scéna 9",
+          "href": "OEBPS/Text/sluha_dvou_panu_006.xhtml#_idParaDest-11"
+        },
+        {
+          "title": "Scéna 10",
+          "href": "OEBPS/Text/sluha_dvou_panu_006.xhtml#_idParaDest-12"
+        },
+        {
+          "title": "Scéna 11",
+          "href": "OEBPS/Text/sluha_dvou_panu_006.xhtml#_idParaDest-13"
+        },
+        {
+          "title": "Scéna 12",
+          "href": "OEBPS/Text/sluha_dvou_panu_006.xhtml#_idParaDest-14"
+        },
+        {
+          "title": "Scéna 13",
+          "href": "OEBPS/Text/sluha_dvou_panu_006.xhtml#_idParaDest-15"
+        },
+        {
+          "title": "Scéna 14",
+          "href": "OEBPS/Text/sluha_dvou_panu_006.xhtml#_idParaDest-16"
+        },
+        {
+          "title": "Scéna 15",
+          "href": "OEBPS/Text/sluha_dvou_panu_006.xhtml#_idParaDest-17"
+        },
+        {
+          "title": "Scéna 16",
+          "href": "OEBPS/Text/sluha_dvou_panu_006.xhtml#_idParaDest-18"
+        },
+        {
+          "title": "Scéna 17",
+          "href": "OEBPS/Text/sluha_dvou_panu_006.xhtml#_idParaDest-19"
+        },
+        {
+          "title": "Scéna 18",
+          "href": "OEBPS/Text/sluha_dvou_panu_006.xhtml#_idParaDest-20"
+        },
+        {
+          "title": "Scéna 19",
+          "href": "OEBPS/Text/sluha_dvou_panu_006.xhtml#_idParaDest-21"
+        },
+        {
+          "title": "Scéna 20",
+          "href": "OEBPS/Text/sluha_dvou_panu_006.xhtml#_idParaDest-22"
+        },
+        {
+          "title": "Scéna 21",
+          "href": "OEBPS/Text/sluha_dvou_panu_006.xhtml#_idParaDest-23"
+        },
+        {
+          "title": "Scéna 22",
+          "href": "OEBPS/Text/sluha_dvou_panu_006.xhtml#_idParaDest-24"
+        }
+      ],
+      "href": "OEBPS/Text/sluha_dvou_panu_006.xhtml#_idParaDest-2"
+    },
+    {
+      "title": "DĚJSTVÍ DRUHÉ",
+      "children": [
+        {
+          "title": "Scéna 1",
+          "href": "OEBPS/Text/sluha_dvou_panu_007.xhtml#_idParaDest-26"
+        },
+        {
+          "title": "Scéna 2",
+          "href": "OEBPS/Text/sluha_dvou_panu_007.xhtml#_idParaDest-27"
+        },
+        {
+          "title": "Scéna 3",
+          "href": "OEBPS/Text/sluha_dvou_panu_007.xhtml#_idParaDest-28"
+        },
+        {
+          "title": "Scéna 4",
+          "href": "OEBPS/Text/sluha_dvou_panu_007.xhtml#_idParaDest-29"
+        },
+        {
+          "title": "Scéna 5",
+          "href": "OEBPS/Text/sluha_dvou_panu_007.xhtml#_idParaDest-30"
+        },
+        {
+          "title": "Scéna 6",
+          "href": "OEBPS/Text/sluha_dvou_panu_007.xhtml#_idParaDest-31"
+        },
+        {
+          "title": "Scéna 7",
+          "href": "OEBPS/Text/sluha_dvou_panu_007.xhtml#_idParaDest-32"
+        },
+        {
+          "title": "Scéna 8",
+          "href": "OEBPS/Text/sluha_dvou_panu_007.xhtml#_idParaDest-33"
+        },
+        {
+          "title": "Scéna 9",
+          "href": "OEBPS/Text/sluha_dvou_panu_007.xhtml#_idParaDest-34"
+        },
+        {
+          "title": "Scéna 10",
+          "href": "OEBPS/Text/sluha_dvou_panu_007.xhtml#_idParaDest-35"
+        },
+        {
+          "title": "Scéna 11",
+          "href": "OEBPS/Text/sluha_dvou_panu_007.xhtml#_idParaDest-36"
+        },
+        {
+          "title": "Scéna 12",
+          "href": "OEBPS/Text/sluha_dvou_panu_007.xhtml#_idParaDest-37"
+        },
+        {
+          "title": "Scéna 13",
+          "href": "OEBPS/Text/sluha_dvou_panu_007.xhtml#_idParaDest-38"
+        },
+        {
+          "title": "Scéna 14",
+          "href": "OEBPS/Text/sluha_dvou_panu_007.xhtml#_idParaDest-39"
+        },
+        {
+          "title": "Scéna 15",
+          "href": "OEBPS/Text/sluha_dvou_panu_007.xhtml#_idParaDest-40"
+        },
+        {
+          "title": "Scéna 16",
+          "href": "OEBPS/Text/sluha_dvou_panu_007.xhtml#_idParaDest-41"
+        },
+        {
+          "title": "Scéna 17",
+          "href": "OEBPS/Text/sluha_dvou_panu_007.xhtml#_idParaDest-42"
+        },
+        {
+          "title": "Scéna 18",
+          "href": "OEBPS/Text/sluha_dvou_panu_007.xhtml#_idParaDest-43"
+        },
+        {
+          "title": "Scéna 19",
+          "href": "OEBPS/Text/sluha_dvou_panu_007.xhtml#_idParaDest-44"
+        },
+        {
+          "title": "Scéna 20",
+          "href": "OEBPS/Text/sluha_dvou_panu_007.xhtml#_idParaDest-45"
+        }
+      ],
+      "href": "OEBPS/Text/sluha_dvou_panu_007.xhtml#_idParaDest-25"
+    },
+    {
+      "title": "DĚJSTVÍ TŘETÍ",
+      "children": [
+        {
+          "title": "Scéna 1",
+          "href": "OEBPS/Text/sluha_dvou_panu_008.xhtml#_idParaDest-47"
+        },
+        {
+          "title": "Scéna 2",
+          "href": "OEBPS/Text/sluha_dvou_panu_008.xhtml#_idParaDest-48"
+        },
+        {
+          "title": "Scéna 3",
+          "href": "OEBPS/Text/sluha_dvou_panu_008.xhtml#_idParaDest-49"
+        },
+        {
+          "title": "Scéna 4",
+          "href": "OEBPS/Text/sluha_dvou_panu_008.xhtml#_idParaDest-50"
+        },
+        {
+          "title": "Scéna 5",
+          "href": "OEBPS/Text/sluha_dvou_panu_008.xhtml#_idParaDest-51"
+        },
+        {
+          "title": "Scéna 6",
+          "href": "OEBPS/Text/sluha_dvou_panu_008.xhtml#_idParaDest-52"
+        },
+        {
+          "title": "Scéna 7",
+          "href": "OEBPS/Text/sluha_dvou_panu_008.xhtml#_idParaDest-53"
+        },
+        {
+          "title": "Scéna 8",
+          "href": "OEBPS/Text/sluha_dvou_panu_008.xhtml#_idParaDest-54"
+        },
+        {
+          "title": "Scéna 9",
+          "href": "OEBPS/Text/sluha_dvou_panu_008.xhtml#_idParaDest-55"
+        },
+        {
+          "title": "Scéna 10",
+          "href": "OEBPS/Text/sluha_dvou_panu_008.xhtml#_idParaDest-56"
+        },
+        {
+          "title": "Scéna 11",
+          "href": "OEBPS/Text/sluha_dvou_panu_008.xhtml#_idParaDest-57"
+        },
+        {
+          "title": "Scéna 12",
+          "href": "OEBPS/Text/sluha_dvou_panu_008.xhtml#_idParaDest-58"
+        },
+        {
+          "title": "Scéna 13",
+          "href": "OEBPS/Text/sluha_dvou_panu_008.xhtml#_idParaDest-59"
+        },
+        {
+          "title": "Scéna 14",
+          "href": "OEBPS/Text/sluha_dvou_panu_008.xhtml#_idParaDest-60"
+        },
+        {
+          "title": "Scéna 15",
+          "href": "OEBPS/Text/sluha_dvou_panu_008.xhtml#_idParaDest-61"
+        },
+        {
+          "title": "Scéna 16",
+          "href": "OEBPS/Text/sluha_dvou_panu_008.xhtml#_idParaDest-62"
+        },
+        {
+          "title": "Scéna poslední",
+          "href": "OEBPS/Text/sluha_dvou_panu_008.xhtml#_idParaDest-63"
+        }
+      ],
+      "href": "OEBPS/Text/sluha_dvou_panu_008.xhtml#_idParaDest-46"
+    },
+    {
+      "title": "Doslov překladatele",
+      "href": "OEBPS/Text/sluha_dvou_panu_009.xhtml#_idParaDest-64"
+    }
+  ]
+}
