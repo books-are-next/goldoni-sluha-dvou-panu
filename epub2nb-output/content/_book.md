@@ -22,8 +22,24 @@ readingOrder:
   - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: sluha_dvou_panu_005.html
+        title: OSOBY
+        hiddenTitle: false
+      - link: sluha_dvou_panu_006.html
+        title: DĚJSTVÍ PRVNÍ
+        hiddenTitle: false
+      - link: sluha_dvou_panu_007.html
+        title: DĚJSTVÍ DRUHÉ
+        hiddenTitle: false
+      - link: sluha_dvou_panu_008.html
+        title: DĚJSTVÍ TŘETÍ
+        hiddenTitle: false
+      - link: sluha_dvou_panu_009.html
+        title: Doslov překladatele
+        hiddenTitle: false
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
