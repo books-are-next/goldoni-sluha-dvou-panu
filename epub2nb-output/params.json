@@ -51,7 +51,7 @@
             "filename": "sluha_dvou_panu_002.md",
             "xhtml": "sluha_dvou_panu_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -162,8 +162,7 @@
           }
         ]
       }
-    ],
-    "replacements": []
+    ]
   },
   "epub": {
     "metadata": {
@@ -171,7 +170,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Carlo Goldoni",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-15T15:20:41.590Z"
+      "modified": "2021-04-13T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -318,6 +317,6 @@
       "user": "books-are-next",
       "repo": "goldoni-sluha-dvou-panu"
     },
-    "generatedAt": 1647357642447
+    "generatedAt": 1652351491232
   }
 }

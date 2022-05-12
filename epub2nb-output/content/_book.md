@@ -13,7 +13,7 @@ meta:
   modified: '2022-03-15T14:56:13.234Z'
   publisherShort: mkp
 readingOrder:
-  - sluha_dvou_panu_002.html
+  - promo.html
   - sluha_dvou_panu_005.html
   - sluha_dvou_panu_006.html
   - sluha_dvou_panu_007.html
