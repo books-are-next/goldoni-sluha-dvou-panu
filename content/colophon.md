@@ -2,16 +2,17 @@
 title: Tiráž
 ---
 
-***
-
-Sluha dvou pánů
-
-Komedie o třech dějstvích
-
-Carlo Goldoni
-
-_Přeložil Jaroslav Pokorný_
-
+**Carlo Goldoni    
+Sluha dvou pánů**  
+**Komedie o třech dějstvích**  
+Edice Drama  
+Překlad Jaroslav Pokorný  
+Ilustrace na obálce John Schwegel/Shutterstock.com  
+Redakce Markéta Teuchnerová  
+Vydala Městská knihovna v Praze  
+Mariánské nám. 1, 115 72 Praha 1  
+V MKP 1. elektronické vydání  
+1. vydání z 12. 5. 2022.
 
 ***
 
@@ -27,58 +28,5 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
   
 
-Verze 2.0 z 16. 4. 2021.
 
 ![](../Images/image004.jpg)
-
-
-***
-
-**Carlo Goldoni  
-Sluha dvou pánů**
-
-**Komedie o třech dějstvích**
-
-  
-
-Edice Drama
-
-  
-
-Překlad Jaroslav Pokorný
-
-  
-
-Ilustrace na obálce John Schwegel/Shutterstock.com
-
-  
-
-Redakce Markéta Teuchnerová
-
-  
-
-Vydala Městská knihovna v Praze
-
-  
-
-Mariánské nám. 1, 115 72 Praha 1
-
-  
-
-V MKP 1. elektronické vydání
-
-  
-
-Verze 2.0 z 16. 4. 2021
-
-  
-
-ISBN 978-80-274-1446-8 (epub)
-
-  
-
-ISBN 978-80-274-1447-5 (pdf)
-
-  
-
-ISBN 978-80-274-1448-2 (prc)
