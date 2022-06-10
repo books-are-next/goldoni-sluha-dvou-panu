@@ -1,9 +1,7 @@
 ---
 title: Doslov překladatele
-contentType: prose
+contentType: drama
 ---
-
-  
 
 Klasická italská commedie dell’arte platí u nás již dlouhá léta za vzor divadla oproštěného vší reality, praktického účelu a dosahu, za sám výlupek artismu a formalismu. V tom se shodují jak kritici, tak zapřisáhlí (u nás ovšem již jen pokoutní) vyznavači formalismu. Pokud mají na mysli to, co bylo u nás a ostatně v celé Evropě vydáváno za commedii dell’arte či aspoň za její styl, mají nesporně pravdu. Pokud by měli na mysli _skutečnou_ commedii dell’arte – pak ovšem není většího omylu a neporozumění v dějinách divadla. Za dnešní své představy o commedii dell’arte děkujeme totiž (krom některých důsledků historického vývoje toho divadelního žánru) francouzské dekadenci z druhé poloviny minulého století, čítajíc v to Laforguova „Blázna z měsíce“ i Verlainův obraz „Ubohého Leliana“, jsme v nich poplatní obrazům mladého Picassa a pozdějšímu futurismu (včetně našeho Josefa Čapka jisté doby a včetně ovšem počátků bratří Čapků v módní „Lásky hře osudné“), Blokovu „Balagančiku“, Meiercholdovi a Tairovovi z let plné slávy „avant­gardismu“, u nás poetismu. Jinými slovy: Pro jednostranně zkreslený názor, který si o velké kapitole divadelní minulosti udělala kultura z let stupňujících se krizí buržoazního světa, nejsme s to vidět tuto část kulturního dědictví správně a vyrovnat se s ní. A nejde tu jen o commedii dell’arte (která ovšem sama pro naše repertoární dědictví nemá valného významu: texty nejsou dochovány, a tak představení zemřela se svými herci téměř beze zbytku); nejde tu jen o správné pojetí některých Goldoniho her, z nichž „Sluha dvou pánů“ je nejznámější a nejvýznamnější; o správné pojetí tvorby Gozziho (cituji alespoň „Turandot“) a části děl Molièrových. Jde tu o správný poměr k celému velkému druhu divadla, jehož vývoj přesahuje dnes již dvě tisícovky let: jde o celou komedii _typů_.
 
