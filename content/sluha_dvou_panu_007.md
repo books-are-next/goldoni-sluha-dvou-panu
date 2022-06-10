@@ -3,6 +3,8 @@ title: DĚJSTVÍ DRUHÉ
 contentType: drama
 ---
 
+<section>
+
 ## Scéna 1
 
 _Dvůr v Pantalonově domě._
@@ -1030,3 +1032,5 @@ _TRUFFALDINO, pak FLORINDO z hostince._
 **TRUFFALDINO**: Teď už můžu prohlásit na svou čest, že jsem opravdu sluha dvou pánů: od obou jsem dostal výplatu! _(Odejde do hostince.)_
 
 _Opona._
+
+</section>

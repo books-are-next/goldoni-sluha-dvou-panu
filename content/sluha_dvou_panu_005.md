@@ -3,6 +3,8 @@ title: OSOBY
 contentType: drama
 ---
 
+<section>
+
 **PANTALONE AGNIVORLA**, benátský obchodník
 
 **KLÁRINKA**, jeho dcera
@@ -32,3 +34,5 @@ Druhý nosič
 Číšníci
 
 _Dějiště: Benátky._
+
+</section>

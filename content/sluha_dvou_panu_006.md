@@ -3,6 +3,8 @@ title: DĚJSTVÍ PRVNÍ
 contentType: drama
 ---
 
+<section>
+
 ## Scéna 1
 
 _Pokoj v Pantalonově domě._
@@ -1168,3 +1170,5 @@ _BEATRICE a KLÁRINKA._
 **KLÁRINKA**: Že by mi tohle trní vonělo, to tedy ne. Už je to tak na tom světě, že si člověk pořád jen zoufá, chvílemi doufá, moc často stejská a málokdy vejská.
 
 _Opona._
+
+</section>

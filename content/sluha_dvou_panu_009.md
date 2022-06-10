@@ -3,6 +3,8 @@ title: Doslov překladatele
 contentType: drama
 ---
 
+<section>
+
 Klasická italská commedie dell’arte platí u nás již dlouhá léta za vzor divadla oproštěného vší reality, praktického účelu a dosahu, za sám výlupek artismu a formalismu. V tom se shodují jak kritici, tak zapřisáhlí (u nás ovšem již jen pokoutní) vyznavači formalismu. Pokud mají na mysli to, co bylo u nás a ostatně v celé Evropě vydáváno za commedii dell’arte či aspoň za její styl, mají nesporně pravdu. Pokud by měli na mysli _skutečnou_ commedii dell’arte – pak ovšem není většího omylu a neporozumění v dějinách divadla. Za dnešní své představy o commedii dell’arte děkujeme totiž (krom některých důsledků historického vývoje toho divadelního žánru) francouzské dekadenci z druhé poloviny minulého století, čítajíc v to Laforguova „Blázna z měsíce“ i Verlainův obraz „Ubohého Leliana“, jsme v nich poplatní obrazům mladého Picassa a pozdějšímu futurismu (včetně našeho Josefa Čapka jisté doby a včetně ovšem počátků bratří Čapků v módní „Lásky hře osudné“), Blokovu „Balagančiku“, Meiercholdovi a Tairovovi z let plné slávy „avant­gardismu“, u nás poetismu. Jinými slovy: Pro jednostranně zkreslený názor, který si o velké kapitole divadelní minulosti udělala kultura z let stupňujících se krizí buržoazního světa, nejsme s to vidět tuto část kulturního dědictví správně a vyrovnat se s ní. A nejde tu jen o commedii dell’arte (která ovšem sama pro naše repertoární dědictví nemá valného významu: texty nejsou dochovány, a tak představení zemřela se svými herci téměř beze zbytku); nejde tu jen o správné pojetí některých Goldoniho her, z nichž „Sluha dvou pánů“ je nejznámější a nejvýznamnější; o správné pojetí tvorby Gozziho (cituji alespoň „Turandot“) a části děl Molièrových. Jde tu o správný poměr k celému velkému druhu divadla, jehož vývoj přesahuje dnes již dvě tisícovky let: jde o celou komedii _typů_.
 
 U starších italských autorů čteme pro commedii dell’arte ještě jedno označení, užívané téměř souběžně s prvním: komedie atel­lán­ská. Italští komedianti a jejich obecenstvo znali velmi dobře svůj rodokmen, který se táhl až do divadelního pravěku, k zemědělským slavnostem a průvodům symbolických masek na počest božstev úrody, k slavnostem, jež spolu s divadlem přežily nepřízeň křesťanství a staly se pak i jedním z otců karnevalu. Potulní minstrelové, bratři minnesängrů, truvérů a trubadúrů, bratři kejklířů, šumařů, medvědářů a ostatních kočujících profesí, dochovali svým renesančním vnukům odkaz starořímských dědů: umění divadla – a divadla po výtce hereckého, hraného větším dílem spatra. Dochovali jim i dědictví čtyř základních lidských typů, jejichž povahové vlastnosti i vzhled až po kostým a masku jsou pevně určeny tradicí a umožňují herci vytvářet postavu, její situace a akce jen na základě stručné dějové osnovy: práskaný sluha, žrout, pozdější dottore i pozdější Pantalone jsou již v atelláně. Divadlo se naučilo už tehdy vytvářet z lidských existencí a vlastností, v té době příznačných, společenskou generalizaci divadelní postavy – zkratky, v níž jsou typické znaky lidí zhuštěny v nejhrubších, nejzákladnějších rysech do symbolu: _typu_.
@@ -11,7 +13,9 @@ Z dob, kdy byla atellána pěstována již literárně, je dochováno na dvě s
 
 A to je tradice společenské kritiky, kterou si komedie tohoto druhu zachovala povždy, až do let svého pozdního dědice Offenbacha, až po jeho vymaškařené starověké hrdiny a pánybohy. To je tradice, z níž rostli přímí dědicové starých mimů, herci středověkých francouzských frašek, stejně tak jako herci commedií dell’arte.
 
-  
+</section>
+
+<section>
 
 Commedie dell’arte je dosud běžně chápána především jako komedie maškar, volná hra fantazie a nezávazných symbolů. Skutečná commedie dell’arte však nebyla hrou kosmopolitních masek, nýbrž komedií národních typů. Její maškary, kostýmy a masky postav jsou ovšem symboly, nikoli však symboly nezávazné. Jejich oděv měl velmi reálný původ a velmi konkrétní smysl – smysl, který byl obecenstvu velmi dobře znám. Carlo Goldoni o tom podává ve čtyřiadvacáté kapitole druhé knihy svých „Pamětí“ velmi poučné svědectví:
 
@@ -33,7 +37,9 @@ Do sporu zasáhl třetí, učený Carlo Gozzi, který v komedii zesměšnil jak
 
 Stejného úpadku došla pak i kdysi slavná metoda virtuosního herectví, kterou si kdysi vytvořila klasická commedie dell’arte pro ztělesňování tradičních typů postav: vznikla z ní manýra hereckých charakterových „oborů“. A rozvinula se nejvíc právě v tom žánru úpadkového divadla, který nejvíce zdědil schematické charaktery postav, hrdinského či lyrického páru, sluhovského komického páru, starého komického páru atp.: v operetě, kde se jí dostalo i označení „šarží“, míněného zprvu zcela vážně a bez hanlivého přízvuku.
 
-  
+</section>
+
+<section>
 
 Dílo Carla Goldoniho obráží, zvl. v ranějším autorovu období, poslední dobu slávy a síly commedie dell’arte, ale zároveň již i její přerod. Toto postavení na přelomu vývoje přineslo autoru nemalé výhody. Má živelné komediantství staré komedie: šil hry hercům na tělo, měl improvizační lehkost (125 komedií jeho díla ji prokazuje již svým počtem), spolehlivý jevištní cit a divadelní krev, jež mu dopřála, aby si i literární polemiky vyřizoval přímo z jeviště ve formě komedií. Má dar užívat tradičních masek v jejich plném dosahu komediantské společenské kritiky, avšak dovede již vidět a prokreslovat v nich lidské charaktery i jejich proměnlivost a vývoj[3](./resources/undefined), jejich dialektiku.
 
@@ -43,7 +49,9 @@ I Benátky, stejně jako stará komedie, prožívaly za těch časů poslední 
 
 Goldoni je i z druhé stránky dítětem svého století, které prožil téměř celé.[4](./resources/undefined) Je to století Antoina Watteaua, století Giacoma Casanovy (který ostatně v benátské divadelní válce o vymyšlenou a tradiční komedii vystoupil na Goldoniho straně) i pandura Trencka. Století galantních dobrodružství a soubojů, století rokoka, jehož poženštělý kostým připouští alespoň po optické stránce jako pravděpodobnou nebo alespoň možnou záměnu děvčete a mladého muže, v rokokové literatuře tak oblíbenou (odtud motiv Beatrice a Florinda ve „Sluhovi dvou pánů“). Goldoni má jeho smysl pro zápletku, ruch a proměnlivost života. Má – a to je patrné právě u dramatika – jeho smysl pro lehký letmý eroticky zabarvený vtip, břitkost dialogu, slovní situace, významové kontrasty a detail jazykové stavby. Mistrně pracuje s italskými dialekty[5](./resources/undefined) a charakterizuje své postavy nejrůznějšími jazykovými rejstříky, od mluvy vybroušené a literární až po výrazy od škopku.
 
-  
+</section>
+
+<section>
 
 Inscenátoru „Sluhy dvou pánů“ třeba položit na srdce především základní zásadu: Nesnaž se hrát komedii tak, jako ji hrál Goldoniho Truffaldino Sacchi – jinak zabiješ její myšlenku. Tradiční kostýmy commedie dell’arte měly konkrétní význam a společenský dosah pro obecenstvo, které prožilo dobu plné komediantské slávy z první ruky; to ještě rozumělo jejich smyslu. Pro našeho diváka (a divadelníka ostatně stejně) je to už jen maškaráda a ten vývoj nelze ničím oddisputovat. Jediné řešení je přenést hru do civilu Goldoniho doby – tj. do rokoka. Jedině tak bude divák vidět v postavách to, co má – totiž lidi především.
 
@@ -74,3 +82,5 @@ Jakmile padá standardizace postav, tj. základ a opora hereckých improvizací,
 [4](./resources/undefined) Narozen v Benátkách 1707, zemřel v Paříži 1793.
 
 [5](./resources/undefined) Tato část jeho umění je, bohužel, nepřeložitelná: v češtině znamená dialekt vždycky vesnici, v italštině (zvl. při dlouho trvající politické roztříštěnosti země) kraj včetně jeho hlavního města.
+
+</section>
