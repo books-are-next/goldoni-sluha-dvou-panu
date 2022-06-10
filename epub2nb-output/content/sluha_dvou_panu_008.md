@@ -3,6 +3,8 @@ title: DĚJSTVÍ TŘETÍ
 contentType: drama
 ---
 
+<section>
+
 ## Scéna 1
 
 _Síň v hostinci s několika dveřmi. TRUFFALDINO sám, pak dva ČÍŠNÍCI._
@@ -1004,3 +1006,5 @@ _TRUFFALDINO dělá tisíc a jedno omluvné gesto na všechny strany._
 _Opona._
 
 _Konec._
+
+</section>

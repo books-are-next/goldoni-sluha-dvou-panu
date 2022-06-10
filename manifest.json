@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "goldoni-sluha-dvou-panu-afa1335",
-  "revision": "afa1335",
+  "identifier": "goldoni-sluha-dvou-panu-2a295da",
+  "revision": "2a295da",
   "readingOrder": [
     "promo.html",
     "sluha_dvou_panu_005.html",
@@ -19,8 +19,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:17:05 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870625690
+    "date": "Fri Jun 10 2022 17:49:46 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883386803
   },
   "documents": [
     {
@@ -554,9 +554,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 129,
-      "chars": 808,
-      "ideas": 18,
+      "words": 88,
+      "chars": 580,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "sluha_dvou_panu_009.html",
@@ -574,9 +574,9 @@
   ],
   "totals": {
     "all": {
-      "words": 25605,
-      "chars": 153952,
-      "ideas": 1671
+      "words": 25564,
+      "chars": 153724,
+      "ideas": 1660
     },
     "chapters": {
       "words": 25470,
