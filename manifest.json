@@ -5,10 +5,11 @@
   "title": "Sluha dvou pánů",
   "author": "Carlo Goldoni",
   "publisher": "Městská knihovna v Praze",
+  "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "goldoni-sluha-dvou-panu-67a1cb9",
-  "revision": "67a1cb9",
+  "identifier": "goldoni-sluha-dvou-panu-e761fa6",
+  "revision": "e761fa6",
   "readingOrder": [
     "promo.html",
     "sluha_dvou_panu_005.html",
@@ -19,8 +20,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:49:18 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272158714
+    "date": "Thu Jun 16 2022 07:29:53 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655364593527
   },
   "documents": [
     {
@@ -574,9 +575,9 @@
   ],
   "totals": {
     "all": {
-      "words": 25619,
-      "chars": 154059,
-      "ideas": 1671
+      "words": 25620,
+      "chars": 154064,
+      "ideas": 1672
     },
     "chapters": {
       "words": 25470,
