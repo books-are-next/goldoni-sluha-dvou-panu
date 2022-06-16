@@ -12,6 +12,7 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2022-03-15T14:56:13.234Z'
   publisherShort: mkp
+  edition: drama
 readingOrder:
   - promo.html
   - sluha_dvou_panu_005.html
