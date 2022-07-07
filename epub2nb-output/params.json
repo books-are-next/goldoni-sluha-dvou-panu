@@ -64,7 +64,7 @@
             "filename": "sluha_dvou_panu_003.md",
             "xhtml": "sluha_dvou_panu_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -76,7 +76,7 @@
             "filename": "sluha_dvou_panu_004.md",
             "xhtml": "sluha_dvou_panu_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -153,7 +153,7 @@
             "filename": "sluha_dvou_panu_010.md",
             "xhtml": "sluha_dvou_panu_010.xhtml",
             "id": 9,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -318,6 +318,6 @@
       "user": "books-are-next",
       "repo": "goldoni-sluha-dvou-panu"
     },
-    "generatedAt": 1655978475756
+    "generatedAt": 1657181880717
   }
 }

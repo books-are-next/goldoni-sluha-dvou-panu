@@ -20,7 +20,7 @@ readingOrder:
   - sluha_dvou_panu_007.html
   - sluha_dvou_panu_008.html
   - sluha_dvou_panu_009.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
