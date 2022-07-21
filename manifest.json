@@ -8,8 +8,8 @@
   "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "goldoni-sluha-dvou-panu-64ee41c",
-  "revision": "64ee41c",
+  "identifier": "goldoni-sluha-dvou-panu-832de66",
+  "revision": "832de66",
   "readingOrder": [
     "promo.html",
     "sluha_dvou_panu_005.html",
@@ -20,8 +20,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 09:59:56 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657187996275
+    "date": "Thu Jul 21 2022 14:40:15 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414415174
   },
   "documents": [
     {
@@ -556,7 +556,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 143,
-      "chars": 914,
+      "chars": 915,
       "ideas": 18,
       "role": "about",
       "order": null,
@@ -576,7 +576,7 @@
   "totals": {
     "all": {
       "words": 25620,
-      "chars": 154063,
+      "chars": 154064,
       "ideas": 1672
     },
     "chapters": {
