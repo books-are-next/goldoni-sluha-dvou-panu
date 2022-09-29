@@ -8,8 +8,8 @@
   "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "goldoni-sluha-dvou-panu-832de66",
-  "revision": "832de66",
+  "identifier": "goldoni-sluha-dvou-panu-8e84020",
+  "revision": "8e84020",
   "readingOrder": [
     "promo.html",
     "sluha_dvou_panu_005.html",
@@ -20,8 +20,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:40:15 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414415174
+    "date": "Thu Sep 29 2022 21:23:20 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486600818
   },
   "documents": [
     {
@@ -536,7 +536,7 @@
       "title": "Doslov překladatele",
       "file": "sluha_dvou_panu_009.html",
       "words": 4369,
-      "chars": 28977,
+      "chars": 28982,
       "ideas": 33,
       "role": "chapter",
       "order": 5,
@@ -576,12 +576,12 @@
   "totals": {
     "all": {
       "words": 25620,
-      "chars": 154064,
+      "chars": 154069,
       "ideas": 1672
     },
     "chapters": {
       "words": 25470,
-      "chars": 153113,
+      "chars": 153118,
       "ideas": 1650
     }
   }
