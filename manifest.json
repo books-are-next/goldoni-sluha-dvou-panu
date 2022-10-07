@@ -8,8 +8,8 @@
   "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "goldoni-sluha-dvou-panu-a112b78",
-  "revision": "a112b78",
+  "identifier": "goldoni-sluha-dvou-panu-9c29787",
+  "revision": "9c29787",
   "readingOrder": [
     "promo.html",
     "sluha_dvou_panu_005.html",
@@ -20,8 +20,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 22:51:44 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664923904023
+    "date": "Fri Oct 07 2022 14:02:30 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665151350707
   },
   "documents": [
     {
